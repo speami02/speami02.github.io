@@ -7,5 +7,21 @@ done=black
 
 li
 white
+white
+cyan
 */
-
+section.high {
+  background-color: red;
+  color: white;
+}
+section.medium {
+  background-color: orange;
+  color: white;
+}
+section.low {
+  background-color: gray;
+}
+section.done {
+  background-color: black;
+  color: #00FFFF;
+}
