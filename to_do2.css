@@ -1,15 +1,3 @@
-/*
-Background
-high=red
-medium =orange
-low = gray
-done=black
-
-li
-white
-white
-cyan
-*/
 section.high {
   background-color: red;
   color: white;
@@ -37,3 +25,15 @@ section.done {
 #done {
   color: black;
 }
+/*
+Background
+high=red
+medium =orange
+low = gray
+done=black
+
+li
+white
+white
+cyan
+*/
