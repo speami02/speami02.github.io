@@ -25,3 +25,15 @@ section.done {
   background-color: black;
   color: #00FFFF;
 }
+#high {
+  color: red;
+}
+#medium {
+  color: orange;
+}
+#low {
+  color: gray;
+}
+#done {
+  color: black;
+}
