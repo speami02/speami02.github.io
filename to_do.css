@@ -7,3 +7,6 @@
 .high {
   color: #d111111;
 }
+.done {
+  text-decoration: line-through;
+}
