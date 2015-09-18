@@ -25,6 +25,9 @@ section.done {
 #done {
   color: black;
 }
+section {
+  border: 5px solid black;
+}
 /*
 Background
 high=red
