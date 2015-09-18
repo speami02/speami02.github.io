@@ -10,3 +10,8 @@
 .done {
   text-decoration: line-through;
 }
+
+section {
+  border: 5px solid black;
+  
+}
