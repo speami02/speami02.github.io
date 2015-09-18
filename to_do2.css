@@ -27,6 +27,8 @@ section.done {
 }
 section {
   border: 5px solid black;
+  overflow: auto;
+  display: none;
 }
 /*
 Background
