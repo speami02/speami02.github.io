@@ -2,7 +2,7 @@ body {
   background-color: #FFC0CB;
 }
 img {
-  
+  float: center;
 }
 #head {
   position: fixed;
