@@ -1,13 +1,11 @@
 body {
   background-color: #FFC0CB;
 }
-img {
-  float: center;
-}
 nav {
   position: fixed;
   width: 100%;
   height: 20px;
+  float: center;
 }
 section#left {
   width: 50%;
