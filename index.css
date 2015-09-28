@@ -8,11 +8,13 @@ nav {
   float: center;
 }
 section#left {
+  position: relative;
   width: 50%;
   float: left;
   margin: 20px;
 }
 section#right {
+  position: relative;
   width: 50%;
   float: right;
   margin: 20px;
