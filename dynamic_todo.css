@@ -1,1 +1,15 @@
-
+ul {
+	list-style: none;
+}
+.high {
+  color: red;
+}
+.medium {
+  color: orange;
+}
+.low {
+  color: green;
+}
+.done {
+  text-decoration: line-through;
+}
