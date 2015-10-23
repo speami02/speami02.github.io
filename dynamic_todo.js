@@ -1,4 +1,4 @@
-restoreList("toDoList", isDone);
+
 
 addTask = function() {
 	var myLi, liText, myOl, myCheckbox;
