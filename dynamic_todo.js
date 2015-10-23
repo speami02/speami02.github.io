@@ -16,6 +16,8 @@ addTask = function() {
 	myLi.appendChild(myCheckbox);
 	myLi.appendChild(liText);
 	myOl.appendChild(myLi);
+	
+	localSave("#toDoList");
 }
 isDone = function() {
 	if (this.checked) {
@@ -23,4 +25,6 @@ isDone = function() {
 	} else {
 		this.parentNode.classList.remove('done');
 	}
+	
+	localSave("#toDoList");
 }
